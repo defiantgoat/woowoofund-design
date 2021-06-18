@@ -18,7 +18,7 @@ You can use any technology stack, libraries, and APIs you're comfortable with. T
  
 Commit your project to a git repo and push it to GitHub. Include a README file that explains how to run your project. It should work on a Ubuntu 20 machine.
 ## Tech Overview
-### Front-End Client
+### [Front-End Client](https://github.com/defiantgoat/woowoofund-app)
 * React based web application
 * Will run with a small ExpressJS server application inside a docker container
 * Will authenticate and have a JWT that will be used for api related requests.
@@ -26,7 +26,7 @@ Commit your project to a git repo and push it to GitHub. Include a README file t
 * Runs in a docker container in k8s, AWS ECS or some similar cloud environment.
 #### POC Notes
 * For POC the client’s state will load with a simulated authenticated user with a mock JWT.
-### Back-End API
+### [Back-End API](https://github.com/defiantgoat/woowoofund-api)
 
 * Standards based endpoints
 * Uses JWT for authentication required transactions.
