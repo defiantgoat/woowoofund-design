@@ -1,3 +1,11 @@
+## Final Screencaptures of Client
+
+![alt text](https://github.com/defiantgoat/woowoofund-design/blob/main/campaign-view.png)
+![alt text](https://github.com/defiantgoat/woowoofund-design/blob/main/manage.png)
+![alt text](https://github.com/defiantgoat/woowoofund-design/blob/main/create.png)
+
+---
+
 ## Project Requirements
 
 When a founder is looking to raise capital for their company, a fair amount of thought will go in to their pitch deck. They will share their deck with potential investors to help sell investors on why they should invest in the company.
