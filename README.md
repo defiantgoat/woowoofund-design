@@ -9,6 +9,7 @@
 ## Project Requirements
  
 The Challenge
+
 Build a tool that allows a user to upload their pitch deck and display it on a web page.
 At a minimum, you should have:
 A web page that allows a user to upload a file as a PDF. Bonus points for supporting PPT and other formats too.
