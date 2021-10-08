@@ -7,11 +7,6 @@
 ---
 
 ## Project Requirements
-
-When a founder is looking to raise capital for their company, a fair amount of thought will go in to their pitch deck. They will share their deck with potential investors to help sell investors on why they should invest in the company.
-We want to make raising money on Wefunder as simple as possible, so we allow founders who have already built a pitch deck to upload it to Wefunder and we'll show their deck on their profile — rather than forcing the founder to recreate their pitch on our site.
- 
-You can see an example of this on Wefunder's own company profile (we dogfood our own product to raise our rounds): https://wefunder.com/wefunder
  
 The Challenge
 Build a tool that allows a user to upload their pitch deck and display it on a web page.
